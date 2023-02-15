@@ -6,6 +6,7 @@ This time I added a motion detecter that prevents the display from refreshing wh
 
 Some of my code I got from: https://github.com/Madelena/esphome-weatherman-dashboard
 
+Weather forecast from HA integration OpenWeatherMap.
 
 
 Software, ESPHome
