@@ -20,4 +20,4 @@ Display
 https://www.amazon.se/dp/B075R69T93/ref=pe_24982401_506182521_TE_item
 
 
-![e-paper display](/e-paper75.png?raw=true "Title")
+![e-paper display](/e-paper75_3.jpg?raw=true "Title")
