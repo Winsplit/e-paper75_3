@@ -1,4 +1,4 @@
-
+template:
 
 # e-paper75, no refreshing of the dispaly will be done during the night.
   - binary_sensor:
